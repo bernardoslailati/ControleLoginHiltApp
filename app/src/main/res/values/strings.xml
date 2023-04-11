@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ControleLoginHiltApp</string>
+    <string name="login">Entrar</string>
+    <string name="password">Senha</string>
+    <string name="email">Email</string>
+    <string name="welcome_programmer">Bem-vindo Programador!</string>
 </resources>
